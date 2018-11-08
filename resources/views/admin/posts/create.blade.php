@@ -2,6 +2,8 @@
 
 @section('content')
 
+    @include('includes.tinyeditor')
+
     <h1 class="text-center">Create Post</h1>
 
     <div class="row">
