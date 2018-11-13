@@ -45,7 +45,7 @@
                             {{--<div class="form-group">--}}
                                 {{--<input type="submit" name="delete_single" value="Delete" class="btn btn-danger">--}}
                             {{--</div>--}}
-                        
+
                     </tr>
                 @endforeach
 
