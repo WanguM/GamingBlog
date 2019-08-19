@@ -41,7 +41,7 @@ class HomeController extends Controller
         
         $categories = Category::all();
         
-        $comments = $post->comments()->whereIsActive(1)->get();
+        $comments = $post->comments()->get();
         
         return view('post',compact('post','comments', 'categories'));
     }

@@ -4,7 +4,7 @@
 <footer>
     <div class="row">
         <div class="col-lg-12">
-            <p Align="Center">Copyright &copy; {{ \Carbon\Carbon::now()->year }} My Website. </p>
+            <p Align="Center">Copyright &copy; {{ \Carbon\Carbon::now()->year }} Subway Surfers. </p>
         </div>
         <!-- /.col-lg-12 -->
     </div>
